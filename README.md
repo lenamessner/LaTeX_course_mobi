@@ -11,6 +11,12 @@ Wir fangen an mit einer kleinen Präsentation, in der wir euch erklären, was La
 Anschließend werden wir mit euch konkret anhand einer Vorlage durchgehen, wie nach den Richtlinien des IPMB eine Bachelor-/Masterarbeit erstellt wird.
 
 
+## Bereitgestellte Dateien -  was findet ihr in diesem repo?
+Folien unsererer Präsentation: wie funktioniert LaTeX generell? <br>
+Template für BA/MA am IPMB <br>
+Beispieldokument: ausgefülltes Template zur Veranschaulichung<br>
+
+
 
 ## Voraussetzungen
 Installation von texstudio (https://www.texstudio.org) + MiKTeX (https://miktex.org, oder eine andere TeX distribution). textstudio sollte euch beim ersten Öffnen eigentlich durch die Installation einer TeX-Installation leiten, wenn auf eurem PC keine existiert. <br>
