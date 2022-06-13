@@ -12,9 +12,11 @@ Anschließend werden wir mit euch konkret anhand einer Vorlage durchgehen, wie n
 
 
 ## Bereitgestellte Dateien -  was findet ihr in diesem repo?
-Folien unsererer Präsentation: wie funktioniert LaTeX generell? <br>
-Template für BA/MA am IPMB <br>
-Beispieldokument: ausgefülltes Template zur Veranschaulichung<br>
+- Folien unsererer Präsentation: wie funktioniert LaTeX generell? <br>
+- Template für BA/MA am IPMB von Nicholas Peschke (MoBi) <br>
+- Beispieldokument: ausgefülltes Template zur Veranschaulichung <br>
+- sehr ausführliches LaTeX-Skript von Thorsten Nagel (Leibniz Kolleg, Tübingen)
+- einfaches LaTeX-Dokument z.B. für Protokolle (erstellt von Lena)
 
 
 
