@@ -14,6 +14,7 @@ Anschließend werden wir mit euch konkret anhand einer Vorlage durchgehen, wie n
 ## Bereitgestellte Dateien -  was findet ihr in diesem repo?
 - Folien unsererer Präsentation: wie funktioniert LaTeX generell? <br>
 - Template für BA/MA am IPMB von Nicholas Peschke (MoBi) <br>
+- Skript zum LaTeX-Kurs von Nicholas (erklärt ziemlich genau die Sachen, die er in seiner Vorlage verwendet) <br>
 - Beispieldokument: ausgefülltes Template zur Veranschaulichung <br>
 - sehr ausführliches LaTeX-Skript von Thorsten Nagel (Leibniz Kolleg, Tübingen)
 - einfaches LaTeX-Dokument z.B. für Protokolle (erstellt von Lena)
